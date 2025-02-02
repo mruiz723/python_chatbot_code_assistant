@@ -1,2 +1,5 @@
 # ipython noteboook checkpoints
 .ipynb_checkpoints/
+
+# Avoid exposing our API Key
+.env
