@@ -3,3 +3,6 @@
 
 # Avoid exposing our API Key
 .env
+
+# Virtual environment
+.venv
